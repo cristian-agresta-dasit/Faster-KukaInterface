@@ -1,1 +1,1 @@
-# Faster_KukaInterface
+# Faster-KukaInterface
